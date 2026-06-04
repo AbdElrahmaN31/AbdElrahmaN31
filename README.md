@@ -4,7 +4,7 @@
 
 ### Senior Backend Engineer | Distributed Systems Specialist
 
-Senior Backend Engineer with 5+ years of experience, specializing in building distributed systems in Golang for video streaming platforms, e-commerce, and analytics platforms. Specialized in high-performance concurrent systems using goroutines, channels, and event-driven architectures. Proven track record of optimizing system performance and scaling production services.
+Senior Backend Engineer with 6+ years of experience, specializing in building distributed systems in Golang for video streaming platforms, e-commerce, and analytics platforms. Specialized in high-performance concurrent systems using goroutines, channels, and event-driven architectures. Proven track record of optimizing system performance and scaling production services.
 
 ---
 
